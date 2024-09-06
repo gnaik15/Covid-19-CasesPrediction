@@ -1,1 +1,1 @@
-# gnaik15-ML_Covid-19-CasesPrediction
+# ML_Covid-19-CasesPrediction

@@ -1,1 +1,2 @@
-# ML_Covid-19-CasesPrediction
+# Covid-19-CasesPrediction
+The aim of this project is to solve a regression problem using deep neural network (DNN) to predict the percentage of new tested positive COVID-19 cases on the 3rd day based on survey data from the previous three days. The project involves understanding fundamental deep learning techniques such as hyperparameter tuning, feature selection and regulariztion while using PyTorch for model development.
